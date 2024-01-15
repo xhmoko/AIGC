@@ -4,6 +4,6 @@
 
 * [图像生成 (Stable Diffusion)](IG/start.md)
 
-* [语音生成](VG/start.md)
+* [语音生成](TTS/start.md)
 
 * [应用场景](APP/start.md)
