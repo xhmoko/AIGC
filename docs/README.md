@@ -3,19 +3,19 @@
 ## 导航
 
 | [大语言模型 (GPT)](LLM/start.md) | [图像生成 (Stable Diffusion)](IG/start.md) | [语音生成](TTS/start.md) | [应用场景](APP/start.md) |
-| :---: | :---: | :---: | :---: |
+| :------------------------------: | :----------------------------------------: | :----------------------: | :----------------------: |
 
 ## 常用链接
 
-| 机构官网 | GitHub项目 | 实用工具 | 常用模型 | 学习资料 |
-| :---: | :---: | :---: | :---: | :---: |
-| [OpenAI][openai] | [ChatGLM][chatglm] | [VS code][vscode] | 0 | [深度学习论文精读][mlipaper] |
-| [Stability AI][stabai] | [Stable Diffusion web UI][sdwebui] | [Everything][everything] | 0 | [动手学深度学习 PyTorch 版][d2lzh] |
-| [Hugging Face][hugface] | [Awesome Prompts][awesome] | [FastCopy][fastcopy] | 0 | [Practical Machine Learning][cs329p] |
-| [Midjourney][midjourney] | [ControlNet][controlnet] | [AutoDL][autodL] | 0 | [HUNG-YI LEE 李宏毅][lhy] |
-| [PyTorch][pytorch] | [so-vits-svc][sovits] |  |  | [DeepLearning.AI][dlai] |
-|  |  |  |  |  |
-|  |  |  |  |  |
+|         机构官网         |             GitHub项目             |         实用工具         | 常用模型 |               学习资料               |
+| :----------------------: | :--------------------------------: | :----------------------: | :------: | :----------------------------------: |
+|     [OpenAI][openai]     |         [ChatGLM][chatglm]         |    [VS code][vscode]     |    0     |     [深度学习论文精读][mlipaper]     |
+|  [Stability AI][stabai]  | [Stable Diffusion web UI][sdwebui] | [Everything][everything] |    0     |  [动手学深度学习 PyTorch 版][d2lzh]  |
+| [Hugging Face][hugface]  |     [Awesome Prompts][awesome]     |   [FastCopy][fastcopy]   |    0     | [Practical Machine Learning][cs329p] |
+| [Midjourney][midjourney] |      [ControlNet][controlnet]      |     [AutoDL][autodL]     |    0     |      [HUNG-YI LEE 李宏毅][lhy]       |
+|    [PyTorch][pytorch]    |       [so-vits-svc][sovits]        |                          |          |       [DeepLearning.AI][dlai]        |
+|                          |                                    |                          |          |                                      |
+|                          |                                    |                          |          |                                      |
 
 [openai]: https://openai.com/
 [stabai]: https://stability.ai/
